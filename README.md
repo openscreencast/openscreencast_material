@@ -1,2 +1,1 @@
-# openscreencast_material
-Material
+# Material
