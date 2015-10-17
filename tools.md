@@ -85,12 +85,30 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * [Mediagoblin](http://mediagoblin.org/)
 * [github lfs](https://git-lfs.github.com/)
 
+## Tools für die Videogestaltung
 
+* http://lab.hakim.se/reveal-js/#/
+* https://bartaz.github.io/impress.js/#/bored
+* http://remarkjs.com/#1
+* https://developers.google.com/chart/
+* http://d3js.org/
+* http://c3js.org/
+* http://imakewebthings.com/deck.js/
+* http://sozi.baierouge.fr/
+* https://www.openeverything.eu/datenvisualisierung-js-javascript-bibliotheken/
+* http://svgjs.com/
+* http://www.chartjs.org/
+* http://leafletjs.com/
+* http://docs.cartodb.com/cartodb-platform/cartodb-js.html
+* https://cartodb.github.io/odyssey.js/
+* https://processing.org/
+* http://processingjs.org/
+* http://p5js.org/
 
+## Material für die Videogestaltung
 
-
-
-
-
+* https://openclipart.org/ Public Domain
+* https://pixabay.com/ CC Zero
+* https://thenounproject.com/ CC by
 
 
