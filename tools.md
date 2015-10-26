@@ -111,4 +111,22 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * https://pixabay.com/ CC Zero
 * https://thenounproject.com/ CC by
 
+## Raspberry PI
+
+### emulieren
+
+* http://www.raspberry-pi-geek.de/Magazin/2014/04/Raspberry-Pi-emulieren
+* http://raspberry.tips/raspberrypi-tutorials/raspberry-pi-raspbian-auf-windows-emulieren-qemu/
+* http://cubik-tech.blogspot.de/2013/02/raspberry-pi-emulation-on-windows.html
+* http://sourceforge.net/projects/rpiqemuwindows/
+
+### Remote Tools
+
+* ssh, ssh -X
+* https://wiki.ubuntuusers.de/Remmina
+* https://wiki.ubuntuusers.de/VNC
+* https://wiki.ubuntuusers.de/X2Go
+* https://wiki.ubuntuusers.de/Xpra
+* https://wiki.ubuntuusers.de/Archiv/NX
+
 
