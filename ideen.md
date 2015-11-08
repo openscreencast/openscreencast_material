@@ -3,6 +3,9 @@
 * eventuell spezielles Video-Sharing CMS benutzen, Möglichkeiten: Plumi, mediacore, mediagoblin
 * Untertitel-Dateien erstellen (automatisch erstellen lassen)
 * Untertitel in andere Sprachen übersetzen (z.B. in Esperanto)
+  * bei http://www.universalsubtitles.org/de/profiles/profile/19157/ veröffentlichen
+  * bei http://www.universalsubtitles.org/de/profiles/profile/openscreencast/ veröffentlichen
+  * bei http://www.amara.org/de/profiles/profile/openscreencast/ veröffentlichen
 * HTML5-Videoplayer der Untertitel anzeigt, verarbeitet (Youtube? da ist es möglich .srt Files)
   * automatische Generierung von Links zu Wikipedia, zu Flickr-Bildern etc. bei Schlüsselwörtern; Links bzw. Bilder werden in einer vorbeiziehenden Timeline entsprechend dem Untertitel-Inhalt angezeigt (wie bei popcorn.js)
 * popcorn.js von Mozilla für die Videos nutzen
@@ -23,6 +26,7 @@
 * eigenes Docker-Image für Screencaster einrichten
 * eigene Dokumentation für Screencaster (Linux) erstellen, z.B. mit [Sphinx](http://sphinx-doc.org/) (Python) und bei [readthedocs](https://readthedocs.org/) veröffentlichen (per github)
 * Seite wie osbn.de aufsetzen, nur für Screencasts
+* http://thescreencastinghandbook.com/ übersetzen
 
 
 
