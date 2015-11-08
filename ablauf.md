@@ -4,9 +4,9 @@
 2. Recherche, Ausprobieren, Texte suchen
 3. Ablaufplan, Text erstellen (Ausprobieren)
 4. Umfeld entsprechend konfigurieren
-* momentan: Linux Mint 17.2 cinnamon (andere möglich)
-* Auflösung auf 1920x1200
-* Symbole und Schrift größer einstellen
+- momentan: Linux Mint 17.2 cinnamon (andere möglich)
+- Auflösung auf 1920x1200
+- Symbole und Schrift größer einstellen
 * einfarbiger Hintergrund (blau)
 * Schrift im Terminal und im Texteditor größer einstellen
 * eventuell key-mon oder screenkey starten
