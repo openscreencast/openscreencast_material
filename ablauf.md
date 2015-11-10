@@ -17,7 +17,7 @@
    * ob Fehler vorhanden sind
    * ob Audio und Video synchron sind
 7. Outro erstellen
-* Outro für Video erstellen per Inkscape (als .svg speichern)
+   * Outro für Video erstellen per Inkscape (als .svg speichern)
 8. Videobearbeitung
    * momentan hauptsächlich per Flowblade
    * Aufnahmevideo, Outro (bei Demos auch noch Hintergrundmusik hinzufügen)
