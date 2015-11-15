@@ -26,6 +26,9 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
 * [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/)
 * [vokoscreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
+* [Tibesti Screencaster](https://launchpad.net/tibesti)
+* [scshoot](https://github.com/edartuz/scshoot)
+
 
 ## Tastenaktionen anzeigen
 
