@@ -131,5 +131,7 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * https://wiki.ubuntuusers.de/X2Go
 * https://wiki.ubuntuusers.de/Xpra
 * https://wiki.ubuntuusers.de/Archiv/NX
+* https://github.com/raspberrypilearning/teachers-classroom-guide/blob/master/vnc-classroom-guide.md
+* https://github.com/raspberrypilearning/teachers-classroom-guide/blob/master/vnc-browser-guide.md
 
 

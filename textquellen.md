@@ -76,5 +76,5 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://www.penguintutor.com/programming/raspi-gpio CC by-sa
 * http://learnxinyminutes.com CC by-sa
 * http://ubuntu-manual.org/ CC by-sa
-
+* https://github.com/raspberrypilearning CC by-sa
 
