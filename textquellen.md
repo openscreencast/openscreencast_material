@@ -77,4 +77,5 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://learnxinyminutes.com CC by-sa
 * http://ubuntu-manual.org/ CC by-sa
 * https://github.com/raspberrypilearning CC by-sa
+* http://wiki.kubuntu-de.org/Hauptseite CC by-sa
 
