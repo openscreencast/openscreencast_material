@@ -28,7 +28,12 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [vokoscreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 * [Tibesti Screencaster](https://launchpad.net/tibesti)
 * [scshoot](https://github.com/edartuz/scshoot)
-
+* [Dahu](https://dahuapp.github.io/)
+* [shelr](https://github.com/antono/shelr)
+* [Desktop Capture ](https://github.com/rjanja/desktop-capture)
+* [Screengif](https://github.com/dergachev/screengif)
+* [x11-canvas-screencast](https://github.com/rprichard/x11-canvas-screencast)
+* [screencast-mode](https://github.com/esbena/screencast-mode)
 
 ## Tastenaktionen anzeigen
 
