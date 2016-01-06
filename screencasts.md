@@ -23,3 +23,8 @@
 * [holarse - Spiele unter Linux](https://www.youtube.com/user/holarse/)
 * [GTuxTV - Spiele unter Linux](https://www.youtube.com/user/GTuxTV/)
 * [DrUbuntu1](https://www.youtube.com/user/DrUbuntu1)
+* [GIMP Tutorials & mehr](https://www.youtube.com/user/SirGimper/)
+* [kwoxer1](https://www.youtube.com/user/kwoxer1/)
+* [DerScriptGuru](https://www.youtube.com/user/DerScriptGuru/)
+* [Blender - Tutorials](https://www.youtube.com/user/BlenderClubTutorials/)
+
