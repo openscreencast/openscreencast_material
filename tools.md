@@ -34,6 +34,13 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [Screengif](https://github.com/dergachev/screengif)
 * [x11-canvas-screencast](https://github.com/rprichard/x11-canvas-screencast)
 * [screencast-mode](https://github.com/esbena/screencast-mode)
+* [Screencast Capture Lite](https://cesarsouza.github.io/screencast-capture/)
+* [Krut](http://krut.sourceforge.net/)
+* [ScreenStudio](http://screenstudio.crombz.com/)
+* [Screencastify](https://www.screencastify.com/)
+* [ttyrec](http://0xcc.net/ttyrec/)
+* [x11rec](http://0xcc.net/x11rec/)
+
 
 ## Tastenaktionen anzeigen
 
@@ -112,6 +119,9 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * https://processing.org/
 * http://processingjs.org/
 * http://p5js.org/
+* http://www.asciidraw.com/#Draw
+* https://github.com/dbushong/shaky
+
 
 ## Material für die Videogestaltung
 

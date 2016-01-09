@@ -43,6 +43,8 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://goratchet.com/getting-started/ CC by
 * https://www.atlassian.com/git/ CC by
 * http://thescreencastinghandbook.com/ CC by
+* http://www.yesodweb.com/book CC by
+
 
 ## für Vimeo (CC by-sa)
 
