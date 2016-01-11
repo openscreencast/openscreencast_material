@@ -28,4 +28,9 @@
 * [kwoxer1](https://www.youtube.com/user/kwoxer1/)
 * [DerScriptGuru](https://www.youtube.com/user/DerScriptGuru/)
 * [Blender - Tutorials](https://www.youtube.com/user/BlenderClubTutorials/)
+* [htmlworld](https://www.youtube.com/user/htmlworld/)
+* [POSTutorial](https://www.youtube.com/user/POSTutorial/)
+* [Arduino - Tutorials](https://www.youtube.com/user/IMDFHTrier/)
+* [Fritzing Org](https://www.youtube.com/user/fritzingpcb/)
+* [MaxTechTV - Arduino](https://www.youtube.com/user/MaxTechTV1/)
 

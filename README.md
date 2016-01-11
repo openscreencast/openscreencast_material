@@ -1,4 +1,4 @@
-# Material
+# Material - openscreencast
 
 * [Tools](tools.md)
 * [Screencasts](screencasts.md)

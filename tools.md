@@ -149,4 +149,6 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * https://github.com/raspberrypilearning/teachers-classroom-guide/blob/master/vnc-classroom-guide.md
 * https://github.com/raspberrypilearning/teachers-classroom-guide/blob/master/vnc-browser-guide.md
 
+## Sonstiges
 
+* http://guac-dev.org/ - Linux Desktop im Browser
