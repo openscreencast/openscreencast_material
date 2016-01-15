@@ -33,4 +33,6 @@
 * [Arduino - Tutorials](https://www.youtube.com/user/IMDFHTrier/)
 * [Fritzing Org](https://www.youtube.com/user/fritzingpcb/)
 * [MaxTechTV - Arduino](https://www.youtube.com/user/MaxTechTV1/)
-
+* [karltuxstadt](https://www.youtube.com/user/karltuxstadt/)
+* [LoopyLinux](https://www.youtube.com/channel/UCdJcDGN54T10P7j9IqSJePg/)
+* [WarumLinuxBesserIst](https://www.youtube.com/user/WarumLinuxBesserIst/)
