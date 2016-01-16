@@ -1,0 +1,67 @@
+body { 	
+			background-color: #000000;
+			padding: 0;
+			margin: 0;
+			font-size: 100.1%; 
+			text-align:left;
+} 
+
+.main {
+			padding: 10px;
+			width:784px;
+			text-align:left;
+			background-color: #ffffff;
+}
+
+.menu {
+			width:100%;
+			border-top-width:1px;
+			border-top-color:#000000;
+			border-top-style:solid;
+			border-bottom-width:1px;
+			border-bottom-color:#000000;
+			border-bottom-style:solid;
+}
+
+.menu td {
+			font-family:Sans; 
+			font-size:1.0em; 
+			letter-spacing:0.1em;
+			text-align:center;
+			padding-left:20px;
+			padding-right:20px;
+			color:#400022;
+}
+
+.menu td a:link { color:#400022; text-decoration:none; }
+.menu td a:visited { color:#400022; text-decoration:none; }
+.menu td a:hover { color:#400022; text-decoration:none; background-color:#f0fff0; }
+.menu td a:active{ color:#400022; text-decoration:none; }
+.menu td a:focus { color:#400022; text-decoration:none; }
+
+.content {
+			width:100%;
+			text-align:left;
+}
+
+.content td {
+			width:50%;
+			vertical-align:top;
+			text-align:left;
+			padding:15px;
+}
+
+.line {
+			width:100%;
+			border-top-width:1px;
+			border-top-color:#000000;
+			border-top-style:solid;
+}
+
+.downloadtable {
+			background-color:#fffff0;
+			border-width:1px;
+			border-color:#000000;
+			border-style:solid;
+			text-align:left;
+}	
