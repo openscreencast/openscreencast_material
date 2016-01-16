@@ -121,13 +121,14 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://p5js.org/
 * http://www.asciidraw.com/#Draw
 * https://github.com/dbushong/shaky
-
+* https://github.com/Jugendhackt/dataviz-tools-libraries
 
 ## Material für die Videogestaltung
 
 * https://openclipart.org/ Public Domain
 * https://pixabay.com/ CC Zero
 * https://thenounproject.com/ CC by
+* http://opengameart.org/
 
 ## Raspberry PI
 
