@@ -81,3 +81,6 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * https://github.com/raspberrypilearning CC by-sa
 * http://wiki.kubuntu-de.org/Hauptseite CC by-sa
 
+## Sonstiges
+
+* [Bücher - Programmieren](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
