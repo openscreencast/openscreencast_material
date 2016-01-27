@@ -130,6 +130,14 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * https://pillow.readthedocs.org/en/latest/
 * https://imageio.github.io/
 * https://zulko.github.io/blog/2014/11/13/things-you-can-do-with-python-and-pov-ray/
+* http://snapsvg.io/
+* http://paperjs.org/
+* http://bonsaijs.org/
+* https://jonobr1.github.io/two.js/
+* http://threejs.org/
+* http://fabricjs.com/
+* http://polymaps.org/
+* http://www.draw2d.org/draw2d/home/index.html
 
 ## Material für die Videogestaltung
 
