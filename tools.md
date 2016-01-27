@@ -93,6 +93,8 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * [openeffect](http://openeffects.org/)
 * [tuttleofx](http://www.tuttleofx.org/)
 * [buttleofx](https://buttleofx.wordpress.com/)
+* [moviepy](https://github.com/Zulko/moviepy)
+
 
 ## Video veröffentlichen
 
@@ -122,6 +124,12 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://www.asciidraw.com/#Draw
 * https://github.com/dbushong/shaky
 * https://github.com/Jugendhackt/dataviz-tools-libraries
+* https://github.com/Zulko/vapory
+* https://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/
+* https://github.com/Zulko/gizeh
+* https://pillow.readthedocs.org/en/latest/
+* https://imageio.github.io/
+* https://zulko.github.io/blog/2014/11/13/things-you-can-do-with-python-and-pov-ray/
 
 ## Material für die Videogestaltung
 
