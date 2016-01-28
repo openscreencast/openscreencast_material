@@ -138,6 +138,17 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://fabricjs.com/
 * http://polymaps.org/
 * http://www.draw2d.org/draw2d/home/index.html
+* http://raphaeljs.com/
+* http://www.pixijs.com/
+* http://selection.datavisualization.ch/
+* https://cesiumjs.org/
+* http://spidergl.org/
+* http://enchantjs.com/
+* http://www.babylonjs.com/
+* http://craftyjs.com/
+* http://rpgjs.com/
+* http://www.rgraph.net/
+* http://scenejs.org/
 
 ## Material für die Videogestaltung
 
