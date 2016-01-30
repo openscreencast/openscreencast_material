@@ -19,7 +19,6 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://eloquentjavascript.net/contents.html CC by (used)
 * http://www.netzwolf.info/kartografie/openlayers/ CC by
 * http://www.deimeke.net/dirk/blog/ CC by (used)
-* http://hangup.de/ CC by
 * https://www.openeverything.eu/ CC by
 * http://getbootstrap.com/ CC by
 * https://angularjs.org/ CC by
@@ -44,7 +43,13 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * https://www.atlassian.com/git/ CC by
 * http://thescreencastinghandbook.com/ CC by
 * http://www.yesodweb.com/book CC by
-
+* https://developers.google.com/edu/python/ CC by
+* https://github.com/jrjohansson/scientific-python-lectures CC by
+* http://www.scipy-lectures.org/ CC by
+* https://exploreflask.com/ public domain
+* http://robotlolita.me/2011/10/09/understanding-javascript-oop.html CC by
+* http://de.learnlayout.com/ CC by
+* http://tldp.org/LDP/abs/html/ public domain
 
 ## für Vimeo (CC by-sa)
 
@@ -62,6 +67,7 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://jqfundamentals.com/legacy/ CC by-sa
 * http://collegeopentextbooks.org/opentextbookcontent/open-textbooks-by-subject/computerscience CC by-sa
 * http://schoolofdata.org/ CC by-sa
+* http://hangup.de/ CC by-sa
 * https://developer.mozilla.org/de/docs/Web/Tutorials CC by-sa
 * https://developer.mozilla.org/de/Apps CC by-sa
 * https://developer.mozilla.org/de/docs/Web CC by-sa
@@ -80,6 +86,13 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://ubuntu-manual.org/ CC by-sa
 * https://github.com/raspberrypilearning CC by-sa
 * http://wiki.kubuntu-de.org/Hauptseite CC by-sa
+* http://python.swaroopch.com/ CC by-sa
+* http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html CC by-sa
+* http://composingprograms.com/
+* https://www.ida.liu.se/~732A47/literature/PythonBook.pdf CC by-sa
+* https://github.com/nyergler/effective-django CC by-sa
+* https://help.ubuntu.com/lts/serverguide/ CC by-sa
+* https://github.com/skwp/git-workflows-book CC by-sa
 
 ## Sonstiges
 
