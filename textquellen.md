@@ -6,7 +6,8 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 ## für Youtube (CC by), (CC by-sa nur mit Genehmigung des Urhebers)
 
 * http://www.freiesmagazin.de/ CC by-sa (used)
-* http://de.libreoffice.org/hilfe-kontakt/handbuecher/ CC by (used)
+* https://tty1.net/sed-tutorium/index.html CC by-sa (used)
+* https://de.libreoffice.org/get-help/documentation/ CC by (used)
 * http://code.makery.ch/ CC by (used)
 * http://diveintohtml5.info/ CC by
 * http://www.linux-praxis.de/ GFDL (used)
