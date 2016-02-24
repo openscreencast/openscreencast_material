@@ -51,6 +51,7 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://robotlolita.me/2011/10/09/understanding-javascript-oop.html CC by
 * http://de.learnlayout.com/ CC by
 * http://tldp.org/LDP/abs/html/ public domain
+* http://docs.godotengine.org/en/latest/index.html CC by
 
 ## für Vimeo (CC by-sa)
 
