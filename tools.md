@@ -149,6 +149,41 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://rpgjs.com/
 * http://www.rgraph.net/
 * http://scenejs.org/
+* https://html5gameengine.com/ (Liste)
+* http://phaser.io/
+* http://createjs.com/easeljs
+* https://github.com/showcases/javascript-game-engines (Liste)
+* http://wellcaffeinated.net/PhysicsJS/
+* http://melonjs.org/
+* http://piqnt.com/stage.js/
+* https://github.com/GooTechnologies/goojs
+* https://github.com/gamelab/kiwi.js
+* https://github.com/ekelokorpi/panda.js-engine
+* https://github.com/Artificial-Engineering/lycheeJS
+* https://github.com/qiciengine/qiciengine
+* http://brm.io/matter-js/
+* http://www.html5quintus.com/
+* http://lib.ivank.net/
+* http://canvasengine.net/
+* http://jawsjs.com/
+* http://gamejs.org/
+* http://microjs.com/# (Liste)
+* http://victorjs.org/
+* http://www.jsgl.org/doku.php
+* http://osgjs.org/
+* http://famous.org/
+* http://www.x3dom.org/
+* https://github.com/vujadin/BabylonHx/
+* http://parallax3d.org/
+* http://www.kickjs.org/
+* https://github.com/beakable/isometric
+* https://github.com/digitalfruit/limejs
+* http://playgroundjs.com/
+* https://github.com/darlingjs/darlingjs
+* http://coquette.maryrosecook.com/
+* http://excaliburjs.com/
+* http://p5play.molleindustria.org/
+
 
 ## Material für die Videogestaltung
 
