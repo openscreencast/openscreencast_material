@@ -27,6 +27,7 @@
 * eigene Dokumentation für Screencaster (Linux) erstellen, z.B. mit [Sphinx](http://sphinx-doc.org/) (Python) und bei [readthedocs](https://readthedocs.org/) veröffentlichen (per github)
 * Seite wie osbn.de aufsetzen, nur für Screencasts
 * http://thescreencastinghandbook.com/ übersetzen
-
+* kurze Erklärvideos erstellen (IT)
+* VR-Umgebungen erstellen um was zu erklären
 
 

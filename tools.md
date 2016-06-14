@@ -183,7 +183,7 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://coquette.maryrosecook.com/
 * http://excaliburjs.com/
 * http://p5play.molleindustria.org/
-
+* https://github.com/Croteam-official/Serious-Engine
 
 ## Material für die Videogestaltung
 
