@@ -192,6 +192,11 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * https://thenounproject.com/ CC by
 * http://opengameart.org/
 
+## Texte gemeinsam bearbeiten
+
+* https://github.com/ + [Markdown](https://de.wikipedia.org/wiki/Markdown) oder [Sphinx](http://www.sphinx-doc.org/en/stable/) (+ https://readthedocs.org/)
+* https://www.gitbook.com/
+
 ## Raspberry PI
 
 ### emulieren
