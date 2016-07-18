@@ -55,6 +55,7 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 
 ## für Vimeo (CC by-sa)
 
+* https://linuxjourney.com/ CC by-sa
 * http://www.freiesmagazin.de/ CC by-sa (used)
 * http://de.linwiki.org/wiki/Linuxfibel CC by-sa
 * http://de.wikibooks.org/wiki/Hauptseite CC by-sa
