@@ -96,6 +96,8 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * https://github.com/nyergler/effective-django CC by-sa
 * https://help.ubuntu.com/lts/serverguide/ CC by-sa
 * https://github.com/skwp/git-workflows-book CC by-sa
+* http://www.karsdorp.io/python-course/ CC by-sa
+
 
 ## Sonstiges
 
