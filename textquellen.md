@@ -102,3 +102,5 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 ## Sonstiges
 
 * [Bücher - Programmieren](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [Bücher über R](https://bookdown.org/)
+
