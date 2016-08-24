@@ -94,7 +94,9 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * [tuttleofx](http://www.tuttleofx.org/)
 * [buttleofx](https://buttleofx.wordpress.com/)
 * [moviepy](https://github.com/Zulko/moviepy)
-
+* [Movie Masher](http://moviemasher.com/)
+* [docker - moviepy](https://github.com/ampervue/docker-ffmpeg-moviepy)
+* [docker - ffmpeg](https://github.com/ampervue/docker-ffmpeg)
 
 ## Video veröffentlichen
 
