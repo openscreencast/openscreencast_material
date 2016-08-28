@@ -29,5 +29,11 @@
 * http://thescreencastinghandbook.com/ übersetzen
 * kurze Erklärvideos erstellen (IT)
 * VR-Umgebungen erstellen um was zu erklären
+* Webapp (angularjs ?) für Videosnippets (Text einblenden, Text ausblenden ... mit Einstellungen, und dann starten um es mit Screencasting-Tool aufzunehmen, Aufnahme wird im Videoeditor zurechtgeschnitten)
+* Webapp um Videosnippets zu erzeugen (z.B. mit moviepy als temp-Datei zum herunterladen)
+* oder Videosnippets auf Bestellung (per Webapp) erzeugen und z.B. auf Youtube zur Verfügung stellen
+
+
+Lizenz: http://creativecommons.org/publicdomain/zero/1.0/
 
 
