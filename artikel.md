@@ -13,9 +13,9 @@
 * http://pb21.de/2011/09/lernen-mit-youtube-co-teil-v-screencasting-fur-anfanger/
 * https://askubuntu.com/questions/4428/how-to-create-a-screencast
 * http://www.linux-magazin.de/Ausgaben/2010/08/Abgedreht
-* http://www.linux-magazin.de/Ausgaben/2008/11/Ordentlich-in-Bewegung/(language)/ger-DE
-* http://www.linux-magazin.de/Ausgaben/2006/07/Desktop-Recorder/(language)/ger-DE
-* http://www.linux-magazin.de/Ausgaben/2016/11/Bitparade/(language)/ger-DE
+* http://www.linux-magazin.de/Ausgaben/2008/11/Ordentlich-in-Bewegung
+* http://www.linux-magazin.de/Ausgaben/2006/07/Desktop-Recorder
+* http://www.linux-magazin.de/Ausgaben/2016/11/Bitparade
 * http://linuxundich.de/gnu-linux/eidete-ist-ein-neues-screencast-tool-fur-linux-mit-tollen-funktionen/
 * http://www.linuxuser.co.uk/tutorials/how-to-create-a-screencast-of-your-linux-desktop
 * https://fedoraproject.org/wiki/ScreenCasting
