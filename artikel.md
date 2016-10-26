@@ -22,3 +22,4 @@
 * http://www.tuxlog.de/ubuntulinuxadmin/2013/screencast-mit-vokoscreen-unter-ubuntu-linux-erstellen/
 * https://linuxacademy.com/blog/linux/linux-screencasting-with-kazam/
 * http://www.ubuntu-user.de/Heft/Heftarchiv/2011/3/Ambitionierte-Screencasts-erstellen
+* https://opensource.com/education/16/10/simplescreenrecorder-and-kazam
