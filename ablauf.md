@@ -19,13 +19,13 @@
 7. Outro erstellen
    * Outro für Video erstellen per Inkscape (als .svg speichern)
 8. Videobearbeitung
-   * momentan hauptsächlich per Flowblade
+   * momentan hauptsächlich per Flowblade und OpenShot
    * Aufnahmevideo, Outro (bei Demos auch noch Hintergrundmusik hinzufügen)
    * Rendern in Ogg Theora HD 720p 25fps, mit maximaler Qualität (40MB/s), Audio: 192000 Bit
 9. Kontrolle
 10. Video hochladen
    * bei youtube, bei vimeo
-11. neuen Eintrag bei tumblr, twitter, geraspora
+11. neuen Eintrag bei tumblr, twitter, geraspora, gnusocial
 12. Video bei data.json hinzufügen
 13. aus data.json die *.md-Dateien für pelican generieren
 14. per pelican die Webseite generieren
