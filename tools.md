@@ -41,7 +41,7 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [ttyrec](http://0xcc.net/ttyrec/)
 * [x11rec](http://0xcc.net/x11rec/)
 * [peek](https://github.com/phw/peek)
-
+* [LICEcap](http://www.cockos.com/licecap/)
 
 ## Tastenaktionen anzeigen
 

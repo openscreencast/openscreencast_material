@@ -23,3 +23,4 @@
 * https://linuxacademy.com/blog/linux/linux-screencasting-with-kazam/
 * http://www.ubuntu-user.de/Heft/Heftarchiv/2011/3/Ambitionierte-Screencasts-erstellen
 * https://opensource.com/education/16/10/simplescreenrecorder-and-kazam
+* https://linuxundich.de/gnu-linux/peek-erstellt-auf-einfache-art-screencasts-als-animiertes-gif-bild-und-demaechst-als-webm-video/
