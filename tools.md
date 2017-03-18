@@ -145,7 +145,6 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://www.pixijs.com/
 * http://selection.datavisualization.ch/
 * https://cesiumjs.org/
-* http://spidergl.org/
 * http://enchantjs.com/
 * http://www.babylonjs.com/
 * http://craftyjs.com/
@@ -174,7 +173,6 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://victorjs.org/
 * http://www.jsgl.org/doku.php
 * http://osgjs.org/
-* http://famous.org/
 * http://www.x3dom.org/
 * https://github.com/vujadin/BabylonHx/
 * http://parallax3d.org/
