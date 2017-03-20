@@ -42,6 +42,7 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [x11rec](http://0xcc.net/x11rec/)
 * [peek](https://github.com/phw/peek)
 * [LICEcap](http://www.cockos.com/licecap/)
+* [Green Recorder](https://github.com/green-project/green-recorder)
 
 ## Tastenaktionen anzeigen
 
