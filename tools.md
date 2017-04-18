@@ -43,6 +43,7 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [peek](https://github.com/phw/peek)
 * [LICEcap](http://www.cockos.com/licecap/)
 * [Green Recorder](https://github.com/green-project/green-recorder)
+* [Freeseer](https://github.com/Freeseer/freeseer)
 
 ## Tastenaktionen anzeigen
 
