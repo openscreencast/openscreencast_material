@@ -4,9 +4,9 @@
 
 Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 
-* [Istanbul](http://live.gnome.org/Istanbul)
+* [Istanbul](https://wiki.gnome.org/Projects/Istanbul)
 * [recordmydesktop](http://recordmydesktop.sourceforge.net)
-* [xvidcap](http://sourceforge.net/projects/xvidcap)
+* [xvidcap](http://xvidcap.sourceforge.net/)
 * [wink](http://www.debugmode.com/wink/)
 * [ffmpeg](http://www.misterhowto.com/index.php?category=Computers&subcategory=Video&article=make_a_screencast_with_linux)
 * [ScreenKast](http://sourceforge.net/projects/screenkast)
