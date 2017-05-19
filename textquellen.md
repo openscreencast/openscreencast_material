@@ -53,6 +53,7 @@ und für mögliche Screencasts mit Open Source-Themen geeignet sind, sammeln
 * http://tldp.org/LDP/abs/html/ public domain
 * http://docs.godotengine.org/en/latest/index.html CC by
 * http://learnosm.org/de/ CC Zero
+* http://junge-tueftler.de/lostuefteln/ teilweise CC by
 
 ## für Vimeo (CC by-sa)
 
