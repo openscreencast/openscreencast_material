@@ -197,6 +197,7 @@ Liste mit Videoeditoren: http://linuxwiki.de/VideoBearbeitung
 * http://bilderhamster.de/jalbum/index.html CC Zero
 * http://game-icons.net/ CC by
 * https://unsplash.com/
+* http://kenney.nl/assets CC Zero
 
 ## Texte gemeinsam bearbeiten
 
