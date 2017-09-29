@@ -27,3 +27,4 @@
 * https://en.wikipedia.org/wiki/Comparison_of_screencasting_software
 * http://www.schrockguide.net/screencasting.html
 * http://archive.oreilly.com/pub/a/oreilly/digitalmedia/2005/11/16/what-is-screencasting.html
+* http://www.superlehrer.de/2017/02/09/screencasting-unter-linux/
