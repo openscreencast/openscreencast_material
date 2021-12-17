@@ -46,6 +46,7 @@ Liste mit Tools: http://wiki.ubuntuusers.de/Screencasts
 * [Freeseer](https://github.com/Freeseer/freeseer)
 * [sgvrecord](https://github.com/yucefsourani/sgvrecord)
 * [Kooha](https://github.com/SeaDve/Kooha)
+* [Blue Recorder](https://github.com/xlmnxp/blue-recorder)
 
 ## Tastenaktionen anzeigen
 
